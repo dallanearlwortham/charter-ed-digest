@@ -3,7 +3,14 @@
 <channel>
   <title>Charter Ed Digest</title>
   <link>https://dallanearlwortham.github.io/charter-ed-digest/</link>
-  <description>undefined</description>
+  <description>News, trends, and practical guidance for charter school leaders and families</description>
+  <item>
+    <title>Charter Schools &amp; the Mental Health Funding Gap</title>
+    <link>https://dallanearlwortham.github.io/charter-ed-digest/posts/charter-schools-student-mental-health-funding-gap-2026.html</link>
+    <guid>https://dallanearlwortham.github.io/charter-ed-digest/posts/charter-schools-student-mental-health-funding-gap-2026.html</guid>
+    <pubDate>Mon, 31 Aug 2026 20:59:15 GMT</pubDate>
+    <description>Federal mental health grants for schools are shrinking in 2026. Here&apos;s how charter schools can build community-partnership models that don&apos;t depend on them.</description>
+  </item>
   <item>
     <title>Charter Schools&apos; Mental Health Edge in a Crisis Year</title>
     <link>https://dallanearlwortham.github.io/charter-ed-digest/posts/charter-schools-student-mental-health-advantage-2025.html</link>
@@ -136,13 +143,6 @@
     <guid>https://dallanearlwortham.github.io/charter-ed-digest/posts/charter-school-college-going-culture-practices.html</guid>
     <pubDate>Mon, 17 Aug 2026 17:15:46 GMT</pubDate>
     <description>What creates record scholarship totals and Ivy acceptances at charter schools? The specific K-12 practices behind the numbers — and what families should ask.</description>
-  </item>
-  <item>
-    <title>How to Evaluate a Charter School Before You Enroll</title>
-    <link>https://dallanearlwortham.github.io/charter-ed-digest/posts/how-to-evaluate-charter-school-quality-before-enrolling.html</link>
-    <guid>https://dallanearlwortham.github.io/charter-ed-digest/posts/how-to-evaluate-charter-school-quality-before-enrolling.html</guid>
-    <pubDate>Mon, 17 Aug 2026 17:05:51 GMT</pubDate>
-    <description>Before you enroll, know what to look for. A practical guide to vetting charter school quality through accreditation, academics, and the right questions.</description>
   </item>
 </channel>
 </rss>
